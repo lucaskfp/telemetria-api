@@ -4,6 +4,7 @@
 - **Spring Data JPA**
 - **MySQL Driver**
 - **Spring Boot DevTools**  (Dependência de devenvolvimento)
+  - **@Anotations** https://projectlombok.org/features/all
 - **Lombok** (Dependência de devenvolvimento)
 
 
