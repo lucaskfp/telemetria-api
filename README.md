@@ -5,7 +5,7 @@
 - **MySQL Driver**
 - **Spring Boot DevTools**  (Dependência de devenvolvimento)
   - **@Anotations** https://projectlombok.org/features/all
-- **Lombok** (Dependência de devenvolvimento)
+- **Lombok** (Dependência de devenvolvimento) 🛑 Necessário extensão no VsCode
 
 
 ## Application properties
